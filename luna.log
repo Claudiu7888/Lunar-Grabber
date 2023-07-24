@@ -1,0 +1,75 @@
+[admin.py:29] - 2023-07-22 22:21:19,597 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-07-22 22:21:19,598 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-07-22 22:21:19,612 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\tudos\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'builder.pyw']
+[admin.py:80] - 2023-07-22 22:21:19,613 - INFO - Running command 'C:\\Users\\tudos\\AppData\\Local\\Programs\\Python\\Python310\\python.exe' - 'builder.pyw'
+[admin.py:29] - 2023-07-22 22:21:23,665 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,874 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,874 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,875 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,875 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,875 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,875 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,875 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,875 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,875 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,876 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,876 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,876 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,876 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,876 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,876 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,876 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,876 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,876 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,876 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,876 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,876 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,876 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,877 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-22 22:21:23,877 - DEBUG - STREAM b'IDAT' 91 1063
+[admin.py:29] - 2023-07-22 22:21:44,522 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-07-22 22:21:44,523 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-07-22 22:21:44,529 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\tudos\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'builder.pyw']
+[admin.py:80] - 2023-07-22 22:21:44,529 - INFO - Running command 'C:\\Users\\tudos\\AppData\\Local\\Programs\\Python\\Python310\\python.exe' - 'builder.pyw'
+[admin.py:29] - 2023-07-22 22:21:46,754 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,884 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,884 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,884 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,884 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,884 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,884 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,885 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,885 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,885 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,885 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,885 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,885 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,885 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,885 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,885 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,885 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,885 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,886 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,886 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,886 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,886 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,886 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,886 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-22 22:21:46,886 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:1048] - 2023-07-22 22:23:16,027 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2023-07-22 22:23:16,313 - DEBUG - https://discord.com:443 "GET /api/webhooks/1128319276655325235/0GYGpS5V6UZ0f58niUm-KSketaJScB1k9fe2WgYYa0DYA7EiMTSQnFaAT7yiOv4Ux9gE HTTP/1.1" 200 None
+[connectionpool.py:1048] - 2023-07-22 22:23:21,189 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2023-07-22 22:23:21,504 - DEBUG - https://discord.com:443 "GET /api/webhooks/1128319276655325235/0GYGpS5V6UZ0f58niUm-KSketaJScB1k9fe2WgYYa0DYA7EiMTSQnFaAT7yiOv4Ux9gE HTTP/1.1" 200 None
+[builder.pyw:425] - 2023-07-22 22:23:31,228 - INFO - Retrieved filename: ClaudiuSuge
+[builder.pyw:391] - 2023-07-22 22:23:31,228 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-07-22 22:23:31,231 - INFO - Successfully changed config
+[builder.pyw:425] - 2023-07-22 22:27:02,403 - INFO - Retrieved filename: Roblox32
+[builder.pyw:394] - 2023-07-22 22:27:02,403 - INFO - Changed filetype: pyinstaller
+[builder.pyw:394] - 2023-07-22 22:27:02,403 - INFO - Changed filetype: pyinstaller
+[builder.pyw:445] - 2023-07-22 22:27:02,405 - INFO - Successfully changed config
+[builder.pyw:489] - 2023-07-22 22:27:43,962 - INFO - Successfully compiled Roblox32.exe with pyinstaller
+[builder.pyw:529] - 2023-07-22 22:27:44,040 - INFO - Successfully removed directory: ./build
+[builder.pyw:538] - 2023-07-22 22:27:44,041 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:538] - 2023-07-22 22:27:44,041 - INFO - Successfully removed file: ./Roblox32.py
+[builder.pyw:538] - 2023-07-22 22:27:44,041 - INFO - Successfully removed file: ./Roblox32.spec
+[admin.py:92] - 2023-07-22 22:31:28,051 - INFO - Process handle <PyHANDLE:1560> returned code 0

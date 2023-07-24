@@ -121,4 +121,3 @@ this to your victims.😈
 ### Star Graph
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Smug246/Luna-Grabber&type=Date)]
-
